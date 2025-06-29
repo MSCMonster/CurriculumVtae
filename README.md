@@ -1,3 +1,10 @@
+# Curriculum Vitae
+
+这是我的 HTML 简历模板（已脱敏）
+
+👉 [点击此处在线预览简历](https://mscmonster.github.io/CurriculumVtae/)
+
+
 ```html
 <!DOCTYPE html>
 <html lang="zh-CN">
